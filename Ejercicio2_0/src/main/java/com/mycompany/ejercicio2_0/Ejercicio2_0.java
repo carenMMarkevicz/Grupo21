@@ -13,5 +13,7 @@ public class Ejercicio2_0 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hola mundo!....");
+         System.out.println("mmmmmmmmmmmmmmmmmm");
+         System.out.println("Ahora si.");
     }
 }
